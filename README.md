@@ -1,0 +1,1 @@
+This is a home page clone of Amazon website using HTML and CSS.
